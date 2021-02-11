@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+#alumni
+{
+  cursor: pointer;
+    
+}
+
+#alumni hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+
+
+
+#campus{
+    text-align:center;}
+
+#achievments{text-align:center;}
+
+#homeimg{
+    width: 100%;
+    height: 1100px;
+}
+
+#home {
+    text-align: center;
+
+}
+
+.line {
+    height: 6px;
+   
+    width: 70px;
+    margin: 6px auto;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#about {
+    text-align: center;
+
+}
+
+
+#videos {
+    text-align: center;
+
+}
+
+
+.movie_head
+{
+    margin: 30px;
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 1200px;
+    display: inline-block;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: #ff7700;
+}
+.travel_mainDiv
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.campusDiv img
+{
+  width: 100%;
+}
+
+.campusDiv hr
+{
+    width: 230px; 
+}
+
+.campusDiv h5 , .travel_mainDiv p
+{
+margin-left: 20px;
+}
+
+body{background-color: cadetblue;text-align:center;}
+
+
+#news_li
+{
+  margin-top: 13px;
+    border-radius: 20;
+    margin: 20px;
+    padding: 20px;
+    width: 100px;
+    padding: 20px;
+    padding-top: 40px;
+}
+
+#news_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+#news_li img
+{
+  border-radius: 25px;
+}
+#news_li p
+{
+  margin-top:10px;
+}
